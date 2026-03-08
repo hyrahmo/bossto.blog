@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>bossto</title>
+      <link>https://bossto.blog</link>
+      <description>Last 10 notes on bossto</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>index</title>
+    <link>https://bossto.blog/trading/</link>
+    <guid>https://bossto.blog/trading/</guid>
+    <description><![CDATA[ sssss. ]]></description>
+    <pubDate>Sun, 08 Mar 2026 08:13:50 GMT</pubDate>
+  </item><item>
+    <title>Welcome to Quartz</title>
+    <link>https://bossto.blog/</link>
+    <guid>https://bossto.blog/</guid>
+    <description><![CDATA[ This is a blank Quartz installation. See the documentation for how to get started. ]]></description>
+    <pubDate>Sun, 21 Dec 2025 06:46:00 GMT</pubDate>
+  </item><item>
+    <title>index</title>
+    <link>https://bossto.blog/engineering/ai/</link>
+    <guid>https://bossto.blog/engineering/ai/</guid>
+    <description><![CDATA[ Description for index ]]></description>
+    <pubDate>Sat, 20 Dec 2025 21:00:00 GMT</pubDate>
+  </item><item>
+    <title>index</title>
+    <link>https://bossto.blog/engineering/robotics/</link>
+    <guid>https://bossto.blog/engineering/robotics/</guid>
+    <description><![CDATA[ Description for index ]]></description>
+    <pubDate>Sat, 20 Dec 2025 21:00:00 GMT</pubDate>
+  </item><item>
+    <title>index</title>
+    <link>https://bossto.blog/engineering/software/</link>
+    <guid>https://bossto.blog/engineering/software/</guid>
+    <description><![CDATA[ Description for index ]]></description>
+    <pubDate>Sat, 20 Dec 2025 21:00:00 GMT</pubDate>
+  </item><item>
+    <title>index</title>
+    <link>https://bossto.blog/finance/business/</link>
+    <guid>https://bossto.blog/finance/business/</guid>
+    <description><![CDATA[ Description for index ]]></description>
+    <pubDate>Sat, 20 Dec 2025 21:00:00 GMT</pubDate>
+  </item><item>
+    <title>index</title>
+    <link>https://bossto.blog/finance/crypto/</link>
+    <guid>https://bossto.blog/finance/crypto/</guid>
+    <description><![CDATA[ Description for index ]]></description>
+    <pubDate>Sat, 20 Dec 2025 21:00:00 GMT</pubDate>
+  </item><item>
+    <title>index</title>
+    <link>https://bossto.blog/finance/quant/</link>
+    <guid>https://bossto.blog/finance/quant/</guid>
+    <description><![CDATA[ Description for index ]]></description>
+    <pubDate>Sat, 20 Dec 2025 21:00:00 GMT</pubDate>
+  </item><item>
+    <title>index</title>
+    <link>https://bossto.blog/meta/biohacking/</link>
+    <guid>https://bossto.blog/meta/biohacking/</guid>
+    <description><![CDATA[ Description for index ]]></description>
+    <pubDate>Sat, 20 Dec 2025 21:00:00 GMT</pubDate>
+  </item><item>
+    <title>index</title>
+    <link>https://bossto.blog/meta/learning/</link>
+    <guid>https://bossto.blog/meta/learning/</guid>
+    <description><![CDATA[ Description for index ]]></description>
+    <pubDate>Sat, 20 Dec 2025 21:00:00 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>

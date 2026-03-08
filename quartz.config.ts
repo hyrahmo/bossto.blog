@@ -3,8 +3,8 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "hyrahmo",
-    pageTitleSuffix: "",
+    pageTitle: "bossto",
+    pageTitleSuffix: "blog",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -13,7 +13,7 @@ const config: QuartzConfig = {
     // ГЛАВНОЕ: Английский интерфейс для всех (Строгость и Стандарт)
     locale: "en-US", 
     // Твой домен
-    baseUrl: "hyrahmo.com",
+    baseUrl: "bossto.blog",
     
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
